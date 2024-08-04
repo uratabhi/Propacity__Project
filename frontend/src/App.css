@@ -1,0 +1,27 @@
+/* src/App.css */
+
+.card {
+    cursor: pointer;
+    border-radius: 8px;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card-body {
+    padding: 2rem;
+  }
+  
+  h4 {
+    color: #007bff;
+    font-weight: bold;
+  }
+  
+  h5 {
+    font-size: 1.25rem;
+    color: #333;
+  }
+  
