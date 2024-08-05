@@ -1,5 +1,15 @@
+# Folder Management System
+![Folder Management System Banner](https://i.imgur.com/Ruu3TLd.png)
+![Folder Management System Banner](https://i.imgur.com/UN8laBA.png)
 
-# File Manager Application
+![Folder Management System Banner](https://i.imgur.com/4icBTpg.png)
+![Folder Management System Banner](https://i.imgur.com/uZMavLa.png)
+
+
+
+
+
+# Project Overview
 
 It's a full Stack Application that allows users to create folders, create subfolders inside existing subfolders, upload files to the appropriate folders and manage files.
 
@@ -10,7 +20,7 @@ It's a full Stack Application that allows users to create folders, create subfol
 
 **Server:** NodeJS, ExpressJs
 
-**Mongodb:** PostgreSql
+**Database:** PostgreSql
 
 
 ## Environment Variables
